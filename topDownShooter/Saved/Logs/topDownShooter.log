@@ -1,0 +1,1224 @@
+﻿Log file open, 04/10/24 16:49:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: topDownShooter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.273095
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7800X CPU @ 3.50GHz, GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -AUTH_LOGIN=unused -AUTH_PASSWORD=0afeb9055dd344029632243653fc518e -AUTH_TYPE=exchangecode -epicapp=UE_4.27 -epicenv=Prod -EpicPortal -epicusername=ZaakceptujMiNazw -epicuserid=734b9f46b3f54639854a8d49c4616ea8 -epiclocale=pl -epicsandboxid=ue
+LogInit: Base Directory: C:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.04.10-14.49.58:311][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.04.10-14.49.58:311][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.04.10-14.49.58:311][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Engine.ini]
+[2024.04.10-14.49.58:311][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.04.10-14.49.58:311][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Engine.ini]
+[2024.04.10-14.49.58:311][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Engine.ini]
+[2024.04.10-14.49.58:311][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.04.10-14.49.58:311][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.04.10-14.49.58:311][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.04.10-14.49.58:311][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.04.10-14.49.58:311][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.04.10-14.49.58:311][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.04.10-14.49.58:311][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Engine.ini]
+[2024.04.10-14.49.58:312][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.04.10-14.49.58:312][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Engine.ini]
+[2024.04.10-14.49.58:312][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Engine.ini]
+[2024.04.10-14.49.58:317][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Scalability.ini]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Scalability.ini]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Scalability.ini]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Scalability.ini]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.04.10-14.49.58:317][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Scalability.ini]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Scalability.ini]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Scalability.ini]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Scalability.ini]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.04.10-14.49.58:318][  0]LogInit: Selected Device Profile: [Windows]
+[2024.04.10-14.49.58:318][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.04.10-14.49.58:318][  0]LogHAL: Display: Platform has ~ 32 GB [34073804800 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.04.10-14.49.58:318][  0]LogInit: Going up to parent DeviceProfile []
+[2024.04.10-14.49.58:318][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Scalability.ini]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Scalability.ini]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Scalability.ini]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.04.10-14.49.58:318][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Scalability.ini]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Scalability.ini]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Scalability.ini]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Scalability.ini]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Scalability.ini]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.04.10-14.49.58:319][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.04.10-14.49.58:320][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.04.10-14.49.58:320][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.04.10-14.49.58:320][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.04.10-14.49.58:320][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Engine.ini]
+[2024.04.10-14.49.58:320][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Config/Windows/Editor.ini]
+[2024.04.10-14.49.58:320][  0]LogInit: Computer: DESKTOP-IQITV1R
+[2024.04.10-14.49.58:320][  0]LogInit: User: Geekjam14
+[2024.04.10-14.49.58:320][  0]LogInit: CPU Page size=4096, Cores=6
+[2024.04.10-14.49.58:320][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.04.10-14.49.58:320][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2024.04.10-14.49.58:320][  0]LogMemory: Platform Memory Stats for Windows
+[2024.04.10-14.49.58:320][  0]LogMemory: Process Physical Memory: 148.71 MB used, 151.46 MB peak
+[2024.04.10-14.49.58:320][  0]LogMemory: Process Virtual Memory: 124.02 MB used, 124.02 MB peak
+[2024.04.10-14.49.58:320][  0]LogMemory: Physical Memory: 11104.14 MB used,  21391.18 MB free, 32495.31 MB total
+[2024.04.10-14.49.58:320][  0]LogMemory: Virtual Memory: 134196912.00 MB used,  20817.54 MB free, 134217728.00 MB total
+[2024.04.10-14.49.58:326][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.04.10-14.49.58:348][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2024.04.10-14.49.58:349][  0]LogInit: Using OS detected language (pl-PL).
+[2024.04.10-14.49.58:349][  0]LogInit: Using OS detected locale (pl-PL).
+[2024.04.10-14.49.58:354][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2024.04.10-14.49.58:355][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2024.04.10-14.49.58:355][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2024.04.10-14.49.58:355][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2024.04.10-14.49.58:355][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2024.04.10-14.49.58:355][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2024.04.10-14.49.58:355][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2024.04.10-14.49.58:355][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2024.04.10-14.49.58:356][  0]LogInit: Setting process to per monitor DPI aware
+[2024.04.10-14.49.58:371][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.04.10-14.49.58:381][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.04.10-14.49.58:381][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.04.10-14.49.58:513][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2024.04.10-14.50.03:942][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2024.04.10-14.50.03:942][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.04.10-14.50.03:942][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2024.04.10-14.50.03:942][  0]LogD3D11RHI: D3D11 adapters:
+[2024.04.10-14.50.04:069][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060' (Feature Level 11_0)
+[2024.04.10-14.50.04:069][  0]LogD3D11RHI:       12124/0/16247 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2024.04.10-14.50.04:072][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.04.10-14.50.04:072][  0]LogD3D11RHI:       0/0/16247 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.04.10-14.50.04:072][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2024.04.10-14.50.04:072][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060
+[2024.04.10-14.50.04:072][  0]LogD3D11RHI:     VendorId    : 10de
+[2024.04.10-14.50.04:072][  0]LogD3D11RHI:     DeviceId    : 2487
+[2024.04.10-14.50.04:072][  0]LogD3D11RHI:     SubSysId    : 13a7196e
+[2024.04.10-14.50.04:072][  0]LogD3D11RHI:     Revision    : 00a1
+[2024.04.10-14.50.04:072][  0]LogD3D11RHI:     DedicatedVideoMemory : 12712935424 bytes
+[2024.04.10-14.50.04:072][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.04.10-14.50.04:072][  0]LogD3D11RHI:     SharedSystemMemory : 17036902400 bytes
+[2024.04.10-14.50.04:072][  0]LogD3D11RHI:     AdapterLuid : 0 79994
+[2024.04.10-14.50.04:083][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.04.10-14.50.04:083][  0]LogD3D11RHI:     GPU DeviceId: 0x2487 (for the marketing name, search the web for "GPU Device Id")
+[2024.04.10-14.50.04:083][  0]LogWindows: EnumDisplayDevices:
+[2024.04.10-14.50.04:083][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:1 D:1)
+[2024.04.10-14.50.04:084][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2024.04.10-14.50.04:084][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2024.04.10-14.50.04:084][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2024.04.10-14.50.04:085][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2024.04.10-14.50.04:085][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2024.04.10-14.50.04:085][  0]LogD3D11RHI:   Driver Version: 536.23 (internal:31.0.15.3623, unified:536.23)
+[2024.04.10-14.50.04:085][  0]LogD3D11RHI:      Driver Date: 6-8-2023
+[2024.04.10-14.50.04:085][  0]LogRHI: Texture pool is 8486 MB (70% of 12124 MB)
+[2024.04.10-14.50.04:085][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2024.04.10-14.50.04:085][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060
+[2024.04.10-14.50.04:085][  0]LogD3D11RHI:     VendorId    : 10de
+[2024.04.10-14.50.04:085][  0]LogD3D11RHI:     DeviceId    : 2487
+[2024.04.10-14.50.04:085][  0]LogD3D11RHI:     SubSysId    : 13a7196e
+[2024.04.10-14.50.04:085][  0]LogD3D11RHI:     Revision    : 00a1
+[2024.04.10-14.50.04:085][  0]LogD3D11RHI:     DedicatedVideoMemory : 12712935424 bytes
+[2024.04.10-14.50.04:085][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.04.10-14.50.04:085][  0]LogD3D11RHI:     SharedSystemMemory : 17036902400 bytes
+[2024.04.10-14.50.04:085][  0]LogD3D11RHI:     AdapterLuid : 0 79994
+[2024.04.10-14.50.04:171][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2024.04.10-14.50.04:171][  0]LogD3D11RHI: Async texture creation enabled
+[2024.04.10-14.50.04:171][  0]LogD3D11RHI: Array index from any shader is supported
+[2024.04.10-14.50.04:188][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2024.04.10-14.50.04:219][  0]LogRHI: GeForceNow SDK initialized: 1
+[2024.04.10-14.50.04:565][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2024.04.10-14.50.04:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.04.10-14.50.04:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.04.10-14.50.04:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.04.10-14.50.04:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.04.10-14.50.04:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.04.10-14.50.04:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.04.10-14.50.04:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.04.10-14.50.04:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.04.10-14.50.04:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.04.10-14.50.04:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.04.10-14.50.04:609][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.04.10-14.50.04:609][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.04.10-14.50.04:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.04.10-14.50.04:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2024.04.10-14.50.04:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.04.10-14.50.04:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.04.10-14.50.04:644][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2024.04.10-14.50.04:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2024.04.10-14.50.04:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2024.04.10-14.50.04:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2024.04.10-14.50.04:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2024.04.10-14.50.04:687][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2024.04.10-14.50.04:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.04.10-14.50.04:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.04.10-14.50.04:702][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.04.10-14.50.04:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.04.10-14.50.04:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.04.10-14.50.04:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2024.04.10-14.50.04:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.04.10-14.50.04:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.04.10-14.50.04:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.04.10-14.50.04:736][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.04.10-14.50.04:745][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.04.10-14.50.04:786][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2024.04.10-14.50.04:825][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.04.10-14.50.04:825][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../mw/ue/topDownShooterMW/topDownShooter/Intermediate/Shaders/WorkingDirectory/19516/).
+[2024.04.10-14.50.04:825][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Geekjam#14/AppData/Local/Temp/UnrealShaderWorkingDir/517EA76F4C4D11B6CB76D58B13F56142/'.
+[2024.04.10-14.50.04:825][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.04.10-14.50.04:826][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.04.10-14.50.04:826][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.04.10-14.50.05:863][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.04.10-14.50.05:935][  0]LogDerivedDataCache: Loaded boot cache 0.07s 96MB C:/Users/Geekjam#14/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.04.10-14.50.05:935][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Geekjam#14/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2024.04.10-14.50.05:936][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../mw/ue/topDownShooterMW/topDownShooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.04.10-14.50.05:936][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.04.10-14.50.05:936][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../mw/ue/topDownShooterMW/topDownShooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.04.10-14.50.05:936][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.04.10-14.50.05:952][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.04.10-14.50.05:952][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.04.10-14.50.05:952][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.04.10-14.50.06:983][  0]LogDerivedDataCache: Speed tests for C:/Users/Geekjam#14/AppData/Local/UnrealEngine/Common/DerivedDataCache took 1.03 seconds
+[2024.04.10-14.50.06:983][  0]LogDerivedDataCache: Display: Performance to C:/Users/Geekjam#14/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=1273.20MBs, RandomWriteSpeed=0.90MBs. Assigned SpeedClass 'Local'
+[2024.04.10-14.50.06:984][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Geekjam#14/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.04.10-14.50.06:984][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.04.10-14.50.06:984][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.04.10-14.50.07:029][  0]LogSlate: Using FreeType 2.10.0
+[2024.04.10-14.50.07:030][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.04.10-14.50.07:057][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2024.04.10-14.50.07:291][  0]LogInit: Selected Device Profile: [Windows]
+[2024.04.10-14.50.07:291][  0]LogInit: Active device profile: [0000027F645ECC00][0000027F5B1F00C0 49] Windows
+[2024.04.10-14.50.07:291][  0]LogInit: Profiles: [0000027F645ECC00][0000027F5B1F00C0 49] Windows, [0000027F645BA200][0000027F647B2240 49] WindowsNoEditor, [0000027F645EDA00][0000027F647B63C0 49] WindowsServer, [0000027F645BAF00][0000027F647BA540 49] WindowsClient, [0000027F645EE600][0000027F5B1F4680 49] IOS, [0000027F645B8E00][0000027F647BE7C0 49] iPadAir, [0000027F645ECA00][0000027F647C2900 49] iPadAir2, [0000027F6455CE00][0000027F647CEBC0 49] IPadPro, [0000027F6455CF00][0000027F647CAC00 49] iPadAir3, [0000027F645BA300][0000027F647D2D80 49] iPadAir4, [0000027F6455F400][0000027F647D6F00 49] iPadMini2, [0000027F645BB200][0000027F647DB080 49] iPadMini3, [0000027F6455FA00][0000027F647DF200 49] iPadMini4, [0000027F645BB300][0000027F647E3380 49] iPadMini5, [0000027F64564800][0000027F647EB640 49] iPhone6, [0000027F64564900][0000027F647E7680 49] iPodTouch6, [0000027F645EF000][0000027F647F3940 49] iPhone7, [0000027F645EF100][0000027F647EF980 49] iPodTouch7, [0000027F6455F000][0000027F647F7B00 49] iPhone5S, [0000027F6455C600][0000027F647FA100 49] iPhone6Plus, [0000027F64566800][0000027F647FE280 49] iPhone6S, [0000027F6455D600][0000027F64802400 49] iPhone6SPlus, [0000027F64566600][0000027F64806580 49] iPhone7Plus, [0000027F6455C800][0000027F6480A700 49] iPhoneSE, [0000027F64566500][0000027F647C6840 49] iPhone8, [0000027F6455D800][0000027F6480E980 49] iPhone8Plus, [0000027F645EEA00][0000027F64812AC0 49] iPhoneX, [0000027F6455EA00][0000027F6481AC40 49] iPhoneXS, [0000027F645EED00][0000027F6481EDC0 49] iPhoneXSMax, [0000027F6455CD00][0000027F64822F40 49] iPhoneXR, [0000027F645EC200][0000027F648270C0 49] iPhone11, [0000027F6455E400][0000027F6482B240 49] iPhone11Pro, [0000027F645ED100][0000027F6482F3C0 49] iPhone11ProMax, [0000027F6455C100][0000027F64833540 49] iPhoneSE2, [0000027F645ED600][0000027F648376C0 49] iPhone12Mini, [0000027F6455CA00][0000027F6483B840 49] iPhone12, [0000027F645ED500][0000027F6483F9C0 49] iPhone12Pro, [0000027F6455D100][0000027F64843B40 49] iPhone12ProMax, [0000027F645EDD00][0000027F64846140 49] iPadPro105, [0000027F6455D500][0000027F6484A2C0 49] iPadPro129, [0000027F645EC600][0000027F6484E440 49] iPadPro97, [0000027F6455C700][0000027F648525C0 49] iPadPro2_129, [0000027F645EFE00][0000027F64856740 49] iPad5, [0000027F6455DF00][0000027F6485A8C0 49] iPad6, [0000027F645EC800][0000027F64816A00 49] iPad7, [0000027F6455F700][0000027F6485EB40 49] iPad8, [0000027F645EE400][0000027F64862C80 49] iPadPro11, [0000027F6455C300][0000027F64866DC0 49] iPadPro2_11, [0000027F645ECE00][0000027F6486EF40 49] iPadPro3_129, [0000027F6455FD00][0000027F648730C0 49] iPadPro4_129, [0000027F645EF600][0000027F64877240 49] AppleTV, [0000027F6455E000][0000027F6487B3C0 49] AppleTV4K, [0000027F645EE500][0000027F6487F540 49] TVOS, [0000027F6455FB00][0000027F648836C0 49] Mac, [0000027F645EE000][0000027F64887840 49] MacClient, [0000027F6455FC00][0000027F6488B9C0 49] MacNoEditor, [0000027F645EC100][0000027F6488FB40 49] MacServer, [0000027F6455D200][0000027F64892140 49] Linux, [0000027F645EFB00][0000027F648962C0 49] LinuxAArch64, [0000027F6455C200][0000027F6489A440 49] LinuxNoEditor, [0000027F645EDB00][0000027F6489E5C0 49] LinuxAArch64NoEditor, [0000027F6455DA00][0000027F648A2740 49] LinuxClient, [0000027F645ED700][0000027F648A68C0 49] LinuxAArch64Client, [0000027F6455D000][0000027F648AAA40 49] LinuxServer, [0000027F645EF900][0000027F6486AB80 49] LinuxAArch64Server, [0000027F6455DD00][0000027F648AECC0 49] Android, [0000027F645ED000][0000027F648B2E00 49] Android_Low, [0000027F6455D900][0000027F648B6F40 49] Android_Mid, [0000027F645EF800][0000027F648BF0C0 49] Android_High, [0000027F6455E600][0000027F648C3240 49] Android_Default, [0000027F645ED200][0000027F648C73C0 49] Android_Adreno4xx, [0000027F6455EE00][0000027F648CB540 49] Android_Adreno5xx_Low, [0000027F645EC300][0000027F648CF6C0 49] Android_Adreno5xx, [0000027F64567800][0000027F648D3840 49] Android_Adreno6xx, [0000027F645BB700][0000027F648D79C0 49] Android_Adreno6xx_Vulkan, [0000027F64565000][0000027F648DBB40 49] Android_Mali_T6xx, [0000027F645BAE00][0000027F648DE140 49] Android_Mali_T7xx, [0000027F64565400][0000027F648E22C0 49] Android_Mali_T8xx, [0000027F645B9A00][0000027F648E6440 49] Android_Mali_G71, [0000027F64564E00][0000027F648EA5C0 49] Android_Mali_G72, [0000027F645BB900][0000027F648EE740 49] Android_Mali_G72_Vulkan, [0000027F64564400][0000027F648F28C0 49] Android_Mali_G76, [0000027F645BBD00][0000027F648F6A40 49] Android_Mali_G76_Vulkan, [0000027F64567400][0000027F648FABC0 49] Android_Mali_G77, [0000027F645BA900][0000027F648FED40 49] Android_Mali_G77_Vulkan, [0000027F64564B00][0000027F648BAE80 49] Android_Mali_G78, [0000027F645BB400][0000027F64902FC0 49] Android_Mali_G78_Vulkan, [0000027F64567900][0000027F64907100 49] Android_Mali_G710, [0000027F645B8F00][0000027F6490F280 49] Android_Mali_G710_Vulkan, [0000027F64564F00][0000027F64913400 49] Android_Vulkan_SM5, [0000027F645BBE00][0000027F64917580 49] Android_PowerVR_G6xxx, [0000027F64565500][0000027F6491B700 49] Android_PowerVR_GT7xxx, [0000027F645B8100][0000027F6491F880 49] Android_PowerVR_GE8xxx, [0000027F64566B00][0000027F64923A00 49] Android_PowerVR_GM9xxx, [0000027F645B8D00][0000027F64927B80 49] Android_PowerVR_GM9xxx_Vulkan, [0000027F64564100][0000027F6492A180 49] Android_TegraK1, [0000027F645BA600][0000027F6492E300 49] Android_Unknown_Vulkan, [0000027F64565100][0000027F64932480 49] Lumin, [0000027F645B8300][0000027F64936600 49] Lumin_Desktop, [0000027F64565300][0000027F6493A780 49] HoloLens, 
+[2024.04.10-14.50.07:483][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.04.10-14.50.07:483][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.04.10-14.50.07:483][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.04.10-14.50.07:483][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.04.10-14.50.07:483][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.04.10-14.50.07:498][  0]LogNetVersion: topDownShooter 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3675636926)
+[2024.04.10-14.50.07:872][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.04.10-14.50.07:938][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.04.10-14.50.07:945][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2024.04.10-14.50.07:945][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2024.04.10-14.50.07:945][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.04.10-14.50.08:223][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 0B12016E42688D728134CB903D458C9C | Instance: 5C8E74234AA66DA60989268F7683008B (DESKTOP-IQITV1R-19516).
+[2024.04.10-14.50.08:357][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.04.10-14.50.09:168][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.04.10-14.50.09:191][  0]LogPython: Using Python 3.7.7
+[2024.04.10-14.50.09:967][  0]SourceControl: Source control is disabled
+[2024.04.10-14.50.09:967][  0]SourceControl: Source control is disabled
+[2024.04.10-14.50.09:972][  0]SourceControl: Source control is disabled
+[2024.04.10-14.50.09:976][  0]SourceControl: Source control is disabled
+[2024.04.10-14.50.09:987][  0]SourceControl: Source control is disabled
+[2024.04.10-14.50.09:994][  0]LogUProjectInfo: Found projects:
+[2024.04.10-14.50.10:251][  0]LogOpenImageDenoise: OIDN starting up
+[2024.04.10-14.50.10:266][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.04.10-14.50.10:291][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.04.10-14.50.10:292][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.04.10-14.50.10:423][  0]LogCollectionManager: Loaded 0 collections in 0.001810 seconds
+[2024.04.10-14.50.10:451][  0]LogFileCache: Scanning file cache for directory 'C:/mw/ue/topDownShooterMW/topDownShooter/Saved/Collections/' took 0.00s
+[2024.04.10-14.50.10:451][  0]LogFileCache: Scanning file cache for directory 'C:/mw/ue/topDownShooterMW/topDownShooter/Content/Developers/Geekjam14/Collections/' took 0.00s
+[2024.04.10-14.50.10:451][  0]LogFileCache: Scanning file cache for directory 'C:/mw/ue/topDownShooterMW/topDownShooter/Content/Collections/' took 0.00s
+[2024.04.10-14.50.10:451][  0]LogOcInput: OculusInput pre-init called
+[2024.04.10-14.50.10:671][  0]LogEngine: Initializing Engine...
+[2024.04.10-14.50.10:922][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2024.04.10-14.50.17:996][  0]LogHMD: Optional extension XR_KHR_opengl_enable is not available
+[2024.04.10-14.50.17:996][  0]LogHMD: Optional extension XR_KHR_vulkan_enable is not available
+[2024.04.10-14.50.17:996][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2024.04.10-14.50.25:271][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2024.04.10-14.50.25:272][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2024.04.10-14.50.25:277][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.04.10-14.50.25:470][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.04.10-14.50.25:479][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.04.10-14.50.25:480][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.04.10-14.50.25:483][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.04.10-14.50.25:484][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.04.10-14.50.25:485][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.04.10-14.50.25:485][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.04.10-14.50.25:485][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-14.50.25:485][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-14.50.25:485][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-14.50.25:485][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-14.50.25:485][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.10-14.50.25:485][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.10-14.50.25:485][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.10-14.50.25:485][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-14.50.25:485][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-14.50.25:485][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-14.50.25:485][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-14.50.25:485][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2024.04.10-14.50.25:502][  0]LogAudioMixer: Display: 0: FrontLeft
+[2024.04.10-14.50.25:502][  0]LogAudioMixer: Display: 1: FrontRight
+[2024.04.10-14.50.25:529][  0]LogAudioMixer: Display: Using Audio Device Głośniki (Steam Streaming Speakers)
+[2024.04.10-14.50.25:534][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-14.50.25:536][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-14.50.25:536][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-14.50.25:537][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.04.10-14.50.25:537][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.04.10-14.50.25:537][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.04.10-14.50.25:538][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.04.10-14.50.25:538][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.04.10-14.50.25:538][  0]LogInit: FAudioDevice initialized.
+[2024.04.10-14.50.25:543][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.04.10-14.50.25:543][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.04.10-14.50.25:787][  0]LogDerivedDataCache: Saved boot cache 0.24s 96MB C:/Users/Geekjam#14/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.04.10-14.50.25:788][  0]LogInit: Texture streaming: Enabled
+[2024.04.10-14.50.25:806][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2024.04.10-14.50.25:811][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.04.10-14.50.25:811][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2024.04.10-14.50.25:814][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2024.04.10-14.50.25:835][  0]LogInit: Transaction tracking system initialized
+[2024.04.10-14.50.25:860][  0]BlueprintLog: New page: Editor Load
+[2024.04.10-14.50.25:988][  0]LocalizationService: Localization service is disabled
+[2024.04.10-14.50.26:015][  0]TimingProfiler: Initialize
+[2024.04.10-14.50.26:016][  0]TimingProfiler: OnSessionChanged
+[2024.04.10-14.50.26:016][  0]LoadingProfiler: Initialize
+[2024.04.10-14.50.26:016][  0]LoadingProfiler: OnSessionChanged
+[2024.04.10-14.50.26:016][  0]NetworkingProfiler: Initialize
+[2024.04.10-14.50.26:016][  0]NetworkingProfiler: OnSessionChanged
+[2024.04.10-14.50.26:016][  0]MemoryProfiler: Initialize
+[2024.04.10-14.50.26:016][  0]MemoryProfiler: OnSessionChanged
+[2024.04.10-14.50.26:278][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2024.04.10-14.50.26:278][  0]LogFileCache: Scanning file cache for directory 'C:/mw/ue/topDownShooterMW/topDownShooter/Content/' took 0.00s
+[2024.04.10-14.50.26:278][  0]LogCook: Display: Mobile HDR setting 1
+[2024.04.10-14.50.26:699][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.04.10-14.50.26:704][  0]SourceControl: Source control is disabled
+[2024.04.10-14.50.26:704][  0]LogUnrealEdMisc: Loading editor; pre map load, took 30.426
+[2024.04.10-14.50.26:704][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.10-14.50.26:704][  0]LightingResults: New page: Lighting Build
+[2024.04.10-14.50.26:705][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-14.50.26:707][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-14.50.26:707][  0]MapCheck: New page: Map Check
+[2024.04.10-14.50.26:707][  0]LightingResults: New page: Lighting Build
+[2024.04.10-14.50.26:754][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.10-14.50.26:757][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.04.10-14.50.26:815][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2024.04.10-14.50.26:824][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2024.04.10-14.50.26:825][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2024.04.10-14.50.26:830][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.10-14.50.26:942][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.10-14.50.26:942][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.10-14.50.26:942][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,143ms to complete.
+[2024.04.10-14.50.26:942][  0]LogFileHelpers: Loading map 'Template_Default' took 0.238
+[2024.04.10-14.50.26:944][  0]LogUnrealEdMisc: Total Editor Startup Time, took 30.666
+[2024.04.10-14.50.27:828][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-14.50.27:841][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-14.50.27:847][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-14.50.27:854][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-14.50.27:942][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0126 seconds. Added 3822 classes and 928 folders.
+[2024.04.10-14.50.27:956][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2024.04.10-14.50.27:957][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.04.10-14.50.27:957][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:958][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.04.10-14.50.27:958][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:958][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2024.04.10-14.50.27:958][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2024.04.10-14.50.27:958][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.04.10-14.50.27:958][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:958][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.04.10-14.50.27:958][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:958][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2024.04.10-14.50.27:958][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2024.04.10-14.50.27:959][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2024.04.10-14.50.27:959][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:959][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2024.04.10-14.50.27:959][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:959][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2024.04.10-14.50.27:959][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2024.04.10-14.50.27:959][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.04.10-14.50.27:959][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:959][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.04.10-14.50.27:959][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:959][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2024.04.10-14.50.27:959][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2024.04.10-14.50.27:960][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.04.10-14.50.27:960][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:960][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.04.10-14.50.27:960][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:960][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2024.04.10-14.50.27:960][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2024.04.10-14.50.27:960][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.04.10-14.50.27:960][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:960][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.04.10-14.50.27:960][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:960][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2024.04.10-14.50.27:960][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2024.04.10-14.50.27:961][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.04.10-14.50.27:961][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:961][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.04.10-14.50.27:961][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:961][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2024.04.10-14.50.27:961][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2024.04.10-14.50.27:961][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.04.10-14.50.27:961][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:962][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.04.10-14.50.27:962][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:962][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2024.04.10-14.50.27:962][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2024.04.10-14.50.27:962][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.04.10-14.50.27:962][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:962][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.04.10-14.50.27:962][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:962][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2024.04.10-14.50.27:962][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2024.04.10-14.50.27:963][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.04.10-14.50.27:963][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:963][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.04.10-14.50.27:963][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:963][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2024.04.10-14.50.27:963][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2024.04.10-14.50.27:963][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.04.10-14.50.27:963][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:963][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.04.10-14.50.27:963][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:963][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2024.04.10-14.50.27:963][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2024.04.10-14.50.27:964][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.04.10-14.50.27:964][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:964][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.04.10-14.50.27:964][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:964][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2024.04.10-14.50.27:964][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2024.04.10-14.50.27:964][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.04.10-14.50.27:964][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:964][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.04.10-14.50.27:964][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:964][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2024.04.10-14.50.27:964][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2024.04.10-14.50.27:965][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.04.10-14.50.27:965][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:965][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.04.10-14.50.27:965][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:965][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2024.04.10-14.50.27:965][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2024.04.10-14.50.27:966][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.04.10-14.50.27:966][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:966][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.04.10-14.50.27:966][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:966][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2024.04.10-14.50.27:966][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2024.04.10-14.50.27:966][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.04.10-14.50.27:966][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:966][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.04.10-14.50.27:966][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:966][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2024.04.10-14.50.27:966][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2024.04.10-14.50.27:967][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.04.10-14.50.27:967][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:967][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.04.10-14.50.27:967][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:967][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2024.04.10-14.50.27:967][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2024.04.10-14.50.27:967][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.04.10-14.50.27:967][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:968][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.04.10-14.50.27:968][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:968][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2024.04.10-14.50.27:968][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2024.04.10-14.50.27:968][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.04.10-14.50.27:968][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:968][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.04.10-14.50.27:968][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:968][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2024.04.10-14.50.27:968][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2024.04.10-14.50.27:968][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.04.10-14.50.27:968][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:968][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.04.10-14.50.27:968][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:968][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2024.04.10-14.50.27:968][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2024.04.10-14.50.27:970][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.04.10-14.50.27:970][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:970][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.04.10-14.50.27:970][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:970][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2024.04.10-14.50.27:970][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2024.04.10-14.50.27:970][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.04.10-14.50.27:970][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:970][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.04.10-14.50.27:970][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:970][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2024.04.10-14.50.27:971][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2024.04.10-14.50.27:971][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2024.04.10-14.50.27:971][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:971][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2024.04.10-14.50.27:971][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:971][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2024.04.10-14.50.27:971][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2024.04.10-14.50.27:972][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.04.10-14.50.27:972][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:972][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.04.10-14.50.27:972][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:972][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2024.04.10-14.50.27:972][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2024.04.10-14.50.27:972][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.04.10-14.50.27:972][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:972][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.04.10-14.50.27:972][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:972][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2024.04.10-14.50.27:972][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2024.04.10-14.50.27:973][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.04.10-14.50.27:973][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.10-14.50.27:973][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.04.10-14.50.27:973][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.10-14.50.27:973][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2024.04.10-14.50.27:973][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2024.04.10-14.50.28:037][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2024.04.10-14.50.28:054][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2024.04.10-14.50.28:428][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.04.10-14.50.28:434][  0]LogSlate: Took 0.001554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.10-14.50.28:438][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.04.10-14.50.28:649][  0]LogRenderer: Reallocating scene render targets to support 1208x568 Format 10 NumSamples 1 (Frame:1).
+[2024.04.10-14.50.28:924][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2024.04.10-14.50.28:924][  0]LogLoad: (Engine Initialization) Total time: 32.65 seconds
+[2024.04.10-14.50.28:925][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.04.10-14.50.29:005][  0]LogAssetRegistry: Asset discovery search completed in 21.9491 seconds
+[2024.04.10-14.50.29:011][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2024.04.10-14.50.29:011][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.04.10-15.01.26:536][615]LogSlate: Took 0.001070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.10-15.01.26:572][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:575][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_B.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:578][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_C.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:583][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Cast_Roar.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:586][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Cast_Summon.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:590][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Charge.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:593][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Death.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:596][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Falling.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:601][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Idle.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:604][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Heavy_Front.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:608][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Knockback_Front.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:610][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Stunned.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:613][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Stunned_Enter.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:616][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Stunned_Exit.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:620][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Stunned_Idle.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:624][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Teleport.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:627][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Walk_Bwd.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:629][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Walk_Fwd.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:633][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Walk_Left.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:636][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Walk_Right.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:639][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Materials/CharM_Greater_Spider.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:643][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Materials/CharM_Greater_Spider_Ice.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:646][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/SK_Greater_Spider.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:648][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/SK_Greater_Spider_Skeleton.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:653][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_D.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:656][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_M.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:659][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_N.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:661][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Ice_D.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:664][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Animations/Death.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:668][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Animations/Idle.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:671][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Animations/Run_Bwd.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:675][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Animations/Run_Fwd.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:678][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Animations/Run_Lt.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:680][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Animations/Run_Rt.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:683][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Animations/Sprint.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:686][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Marine.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:690][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Marine_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:694][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Marine_Skeleton.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:697][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Materials/MI_Marine.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:700][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Materials/ML_Base.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:704][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Materials/ML_Emissive_Custom.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:707][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Materials/ML_Glass.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:710][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Materials/ML_Metal_light.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:714][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Materials/ML_Metal_Painted.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:716][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Materials/ML_Rubber_dark.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:719][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Materials/ML_Rubber_light.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:723][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Materials/M_BodyDamage.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:726][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Materials/M_Marine.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:729][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Textures/Chr_FPS_02_M.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:733][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Textures/Chr_FPS_D.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:736][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Textures/Chr_FPS_Fabric_N_01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:739][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Textures/Chr_FPS_M.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:742][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Textures/Chr_FPS_Metal_01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:745][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Textures/Chr_FPS_Metal_02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:750][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Textures/Chr_FPS_M_03tga.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:753][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Textures/Chr_FPS_N.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:757][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Textures/holo_layer_1_5.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:760][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Textures/Tiles/T_Sctraches_01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:763][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Characters/Marine/Textures/T_Vista_Grass_N.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.26:767][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Materials/Gameplay/Pickups/M_PickUp_Master.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.30:976][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Materials/LensFlare/M_Lensflare_01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:063][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Materials/LensFlare/M_LensFlare_02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:069][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Materials/Ramp/M_radial_ramp_soft.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:074][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Materials/Ramp/M_SoftGradient_Muzzle.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:077][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Materials/Smoke/M_ImpactSmoke.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:082][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Materials/Smoke/M_MuzzleSmokeDetail_GPU.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:085][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Materials/Smoke/M_SmokeBall.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:088][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Materials/spark/M_spark_subUV.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:092][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Materials/Weapon/M_MuzzleGlow.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:096][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Materials/Weapon/M_muzzle_flash_subUV.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:100][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Materials/Weapon/M_WP_Linkgun_Connection.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:104][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Materials/Weapon/M_WP_ShockRifle_Panning_Beam.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:108][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Meshes/Gameplay/Pickups/Ammo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:113][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Meshes/Gameplay/Pickups/SM_Health.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:117][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Meshes/General/S_Sphere.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:120][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Meshes/Weapon/SM_MuzzleCone.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:124][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Textures/Energy/T_EFX_Beam_Electricity_02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:128][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Textures/LensFlare/Flare_02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:132][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Textures/LensFlare/T_Lensflare_01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:135][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Textures/Mask/T_SquareMaskTightEdge.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:140][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Textures/Noise/T_TileNoise.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:143][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Textures/Ramp/T_FX_CameraDistort.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:147][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Textures/Ramp/T_FX_ColorDistort.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:151][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Textures/Smoke/T_Clouds_01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:154][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Textures/Smoke/T_SmokeBall_01_8_8.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:157][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Textures/Spark/T_SparkCore_2X2.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:162][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Textures/Water/T_Caustics_2.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:165][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Textures/Water/T_Steam_02_Packed.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:169][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Misc/Textures/Weapon/T_muzzle_flashes.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:173][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Pick-ups/P_AssaultRifle_AMmo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:176][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Pick-ups/P_Health.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.31:181][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Weapons/Impacts/P_AssaultRifle_IH.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:402][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Weapons/Impacts/P_CreatureImpact.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:501][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Weapons/Muzzle/P_AssaultRifle_MF.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:506][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Effects/Weapons/Muzzle/P_AssaultRifle_Trail.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:510][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/RoomTone_AbstractBitcrushed03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:514][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/RoomTone_AbstractBitcrushed04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:517][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/RoomTone_AbstractBitcrushed05_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:521][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/WindAnimated_High01_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:524][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/WindAnimated_High02_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:528][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/WindAnimated_High03_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:531][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/WindAnimated_High_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:535][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/WindAnimated_Low01_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:540][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/WindAnimated_Low02_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:543][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/WindAnimated_Low03_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:547][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/WindAnimated_Low_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:550][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/WindSteady01_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:553][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/WindSteady02_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:557][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/WindSteady03_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:561][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/WindSteady04_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:564][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/WindSteady_Loop_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:566][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/Wind_Abstract01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:571][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/Wind_Abstract02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:575][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/Wind_Abstract03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:578][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/Wind_Abstract04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:581][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/Wind_Abstract05_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:584][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientLoops/Stereo/Wind_AbstractAnimated_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:588][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientNonLoops/Stereo/MetalCreak_Pillars01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:591][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientNonLoops/Stereo/MetalCreak_Pillars05_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:595][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/AmbientNonLoops/Stereo/MetalCreak_Pillars15_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:598][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/FoleyBody_Aim_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:602][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/FoleyBody_BodyMove01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.33:605][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/FoleyBody_BodyMove02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:725][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/FoleyBody_BodyMove03.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:789][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/FoleyBody_BodyMove04.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:793][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/FoleyBody_BodyMove_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:796][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/FoleyBody_Fall01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:801][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/FoleyBody_Fall02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:805][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/FoleyBody_Fall03.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:808][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/FoleyBody_Fall04.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:812][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/FoleyBody_Fall_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:816][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/FoleyBody_HandSwipe01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:821][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/FoleyBody_HandSwipe02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:825][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/FoleyBody_HandSwipe03.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:828][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/FoleyBody_HandSwipe04.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:831][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/FoleyBody_HandSwipe_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:835][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/FoleyBody_Land02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:838][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/FoleyBody_Land03.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:843][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/FoleyBody_Land04.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:846][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/FoleyBody_Land05.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:850][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/FoleyBody_Land_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:854][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/Run01_Loop.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:858][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/Run02_Loop.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:862][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/Run03_Loop.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:866][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/Run04_Loop.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:870][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/Run05_Loop.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:874][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/RunStop01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:878][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/RunStop02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:883][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/RunStop03.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:886][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/RunStop_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:889][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Mono/Run_Loop_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:893][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Stereo/FoleyBody_BodyMove01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:898][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Stereo/FoleyBody_BodyMove02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:902][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Stereo/FoleyBody_BodyMove03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:906][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Stereo/FoleyBody_BodyMove04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:909][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Stereo/FoleyBody_BodyMove_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:913][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Stereo/FoleyBody_HandSwipe01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:916][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Stereo/FoleyBody_HandSwipe02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:920][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Stereo/FoleyBody_HandSwipe03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:924][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Stereo/FoleyBody_HandSwipe04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.35:928][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Stereo/FoleyBody_HandSwipe_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:570][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Stereo/FoleyBody_Land01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:681][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Stereo/FoleyBody_Land02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:686][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Stereo/FoleyBody_Land03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:689][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Stereo/FoleyBody_Land04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:693][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Stereo/FoleyBody_Land05_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:698][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyBodyMoves/Stereo/FoleyBody_Land_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:701][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:705][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:710][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib03.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:714][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib04.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:717][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib05.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:721][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib06.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:725][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:729][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:733][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact03.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:736][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact04.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:739][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact05.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:743][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact06.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:746][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact07.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:751][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact08.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:754][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:757][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Stereo/Cue_CreatureDeath.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:761][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:765][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:768][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.38:773][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:608][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib05_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:674][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib06_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:679][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:684][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:687][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:691][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:696][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact05_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:700][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact06_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:703][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact07_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:707][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact08_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:711][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Mono/Footsteps_Generic_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:716][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Mono/Footstep_Generic01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:720][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Mono/Footstep_Generic02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:724][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Mono/Footstep_Generic03.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:730][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Mono/Footstep_Generic04.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:735][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Mono/Footstep_Generic05.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:739][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Mono/Footstep_Generic06.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:743][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Mono/Footstep_Generic07.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:747][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Mono/Footstep_Generic08.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:751][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Mono/Footstep_Generic09.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:755][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Mono/Footstep_Generic10.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:760][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Mono/Footstep_Generic11.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:765][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Mono/Footstep_Generic12.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:769][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Stereo/Footsteps_Generic_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:774][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Stereo/Footstep_Generic01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:779][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Stereo/Footstep_Generic02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:784][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Stereo/Footstep_Generic03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:788][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Stereo/Footstep_Generic04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:793][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Stereo/Footstep_Generic05_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:797][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Stereo/Footstep_Generic06_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:801][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Stereo/Footstep_Generic07_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:805][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Stereo/Footstep_Generic08_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.40:810][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Stereo/Footstep_Generic09_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:093][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Stereo/Footstep_Generic10_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:160][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Stereo/Footstep_Generic11_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:164][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Footsteps/Stereo/Footstep_Generic12_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:168][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuAccept_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:172][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuAccept_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:177][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuBack01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:181][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuBack02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:185][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuBack03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:188][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuBack_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:193][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuCursor01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:198][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuCursor02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:201][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuCursor03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:206][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuCursor04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:211][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuCursor_Sides_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:216][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuCursor_UpDown_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:220][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuDiscard_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:224][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuDiscard_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:228][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuEnter01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:233][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuEnter02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:237][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuEnter03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:241][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuEnter_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:245][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuExitStereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:250][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuExit_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:254][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuStart_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:258][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/MenuStart_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:262][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/UI_LowHealth_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:266][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/UI_LowHealth_Loop_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:271][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/InterfaceAudio/Stereo/UI_PlayerRespawn_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:275][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Music/ShooterGame_Music.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:278][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Music/ShooterGame_Music_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:282][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Music/ShooterGame_Music_Intro.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:286][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Music/ShooterGame_Music_Intro_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:291][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Stingers/Mono/StingerPickup_Health01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.43:295][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Stingers/Mono/StingerPickup_Health02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:670][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Stingers/Mono/StingerPickup_Health_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:761][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Stingers/Mono/Stinger_PlayerDeath01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:766][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Stingers/Stereo/StingerPickup_Health01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:772][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Stingers/Stereo/StingerPickup_Health02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:776][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Stingers/Stereo/Stinger_PlayerDeath01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:781][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Stingers/Stereo/Stinger_PlayerDeath02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:785][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Stingers/Stereo/Stinger_PlayerDeath_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:790][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Equip_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:794][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Reload_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:799][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:804][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:810][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:814][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:818][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot05_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:823][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot06_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:827][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:832][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:836][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:840][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:845][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd05_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:848][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd06_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:853][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:856][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:861][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:866][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_AmmoPickup01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:870][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_AmmoPickup02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.45:874][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_AmmoPickup03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:772][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Empty01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:843][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Empty02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:847][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Empty03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:850][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Reload01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:854][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Reload02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:858][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Reload03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:863][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Swap01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:867][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Swap02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:871][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Swap03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:875][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\UI/Textures/AttackerPortrait.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:879][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\UI/Textures/MarinePortrait.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:884][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\UI/Textures/MarineSprintAvailable.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:888][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\UI/Textures/MarineSprintUnavailable.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:892][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/MaterialLayers/ML_BoltMetal.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:897][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/MaterialLayers/ML_Metal_Copper.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:901][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/MaterialLayers/ML_Metal_Gray.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:905][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/MaterialLayers/ML_Paint.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:909][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/MaterialLayers/ML_Rubber.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:914][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/MaterialLayers/T_ExampleLayers_Metal02_N.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:919][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/MaterialLayers/T_Metal_Metal02_D.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:923][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/MaterialLayers/T_PaintedMetal01_N.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:927][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/MaterialLayers/T_PaintedMetal02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:932][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/MaterialLayers/T_Rubber.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:936][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/Materials/MagGun_MatA.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:940][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/Materials/MagGun_MatA_Inst3.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:944][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/Materials/MagGun_MatB.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:948][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/Materials/MagGun_MatB_Inst2.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:953][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/Materials/MagGun_MatB_Inst3.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:958][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/Materials/MagGun_SightLens_Mat.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:962][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/Materials/MagGun_SightLens_Mat_Inst.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:966][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/Rifle.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:970][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/Rifle_Skeleton.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.47:975][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/Textures/MagGunT1_section.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.50:311][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/Textures/MagGunT1_shade.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.50:424][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/Textures/MagGunT2_section.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.50:429][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/Textures/MagGunT2_shade.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.50:433][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/Textures/MagGun_01_N.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.50:438][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/Textures/MagGun_02_N.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.50:442][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/Textures/MagGun_Decals.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.50:447][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/Textures/MagGun_Display_EM.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.50:451][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/Textures/SightLens_maskA.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.01.50:455][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/Textures/SightLens_maskB.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.02.08:788][667]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
