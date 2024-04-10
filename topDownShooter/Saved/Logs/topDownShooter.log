@@ -1222,3 +1222,422 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.10-15.01.50:451][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/Textures/SightLens_maskA.uasset'. Unknown extension 'uasset'.
 [2024.04.10-15.01.50:455][615]LogAssetTools: Warning: Failed to import 'C:\mw\Nowy folder\Weapons/Textures/SightLens_maskB.uasset'. Unknown extension 'uasset'.
 [2024.04.10-15.02.08:788][667]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.10-15.12.43:228][999]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.10-15.12.43:259][999]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.10-15.12.48:739][653]LogContentBrowser: Attempting asset rename: NewFolder -> blueprints
+[2024.04.10-15.12.48:739][653]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.10-15.12.54:482][930]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.04.10-15.13.03:856][930]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.10-15.13.03:871][930]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.10-15.13.03:878][930]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.10-15.13.26:054][566]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_mainChara
+[2024.04.10-15.13.26:556][566]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.10-15.13.46:528][385]LogTexture: Display: Building textures: Chr_FPS_Fabric_N_01 (OODLE_BC5, 512X512)
+[2024.04.10-15.13.46:528][385]LogTexture: Display: Building textures: Chr_FPS_02_M (OODLE_AutoDXT, 2048X2048)
+[2024.04.10-15.13.46:528][385]LogTexture: Display: Building textures: Chr_FPS_M (BGRA8, 2048X2048)
+[2024.04.10-15.13.46:528][385]LogTexture: Display: Building textures: T_Vista_Grass_N (OODLE_BC5, 1024X1024)
+[2024.04.10-15.13.46:528][385]LogTexture: Display: Building textures: T_Sctraches_01 (OODLE_AutoDXT, 2048X2048)
+[2024.04.10-15.13.46:528][385]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.10-15.13.46:528][385]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.10-15.13.46:528][385]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.10-15.13.46:528][385]LogTexture: Display: Building textures: Chr_FPS_Metal_01 (OODLE_BC5, 2048X2048)
+[2024.04.10-15.13.46:528][385]LogTexture: Display: Building textures: Chr_FPS_D (OODLE_AutoDXT, 2048X2048)
+[2024.04.10-15.13.46:528][385]LogTexture: Display: Building textures: Chr_FPS_M_03tga (OODLE_AutoDXT, 2048X2048)
+[2024.04.10-15.13.46:528][385]LogTexture: Display: Building textures: Chr_FPS_N (OODLE_BC5, 2048X2048)
+[2024.04.10-15.13.46:528][385]LogTexture: Display: Building textures: Chr_FPS_Metal_02 (OODLE_AutoDXT, 2048X2048)
+[2024.04.10-15.13.46:528][385]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.10-15.13.46:528][385]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.10-15.13.46:528][385]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.10-15.13.46:528][385]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.10-15.13.46:528][385]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.10-15.13.46:528][385]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.10-15.13.46:528][385]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.10-15.13.46:528][385]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.10-15.13.46:528][385]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.10-15.13.46:528][385]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.10-15.13.46:528][385]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.10-15.13.46:528][385]LogMaterial: Display: Missing cached shadermap for M_Marine in PCD3D_SM5, Default, SM5 (DDC key hash: 108BFBEABD2BB7718FABC360F51D051FAC1D09E8), compiling. 
+[2024.04.10-15.13.46:692][385]LogShaderCompilers: Display: Submitted 84 shader compile jobs with 'Low' priority
+[2024.04.10-15.13.46:711][385]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 84
+[2024.04.10-15.13.46:711][385]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 74
+[2024.04.10-15.13.46:711][385]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 64
+[2024.04.10-15.13.46:711][385]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 54
+[2024.04.10-15.13.46:711][385]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 44
+[2024.04.10-15.13.46:711][385]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 34
+[2024.04.10-15.13.46:711][385]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2024.04.10-15.13.46:711][385]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2024.04.10-15.13.46:711][385]LogShaderCompilers: Display: Started 80 'Local' shader compile jobs with 'Low' priority
+[2024.04.10-15.13.46:711][385]LogSkeletalMesh: Building Skeletal Mesh Marine...
+[2024.04.10-15.13.46:742][385]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Characters/Marine/Marine.Marine
+[2024.04.10-15.13.51:288][680]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2024.04.10-15.13.51:288][680]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.13.51:320][680]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.10-15.13.51:320][680]LogShaderCompilers: Display: Total job queries 84, among them cache hits 0 (0.00%)
+[2024.04.10-15.13.51:320][680]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 10 distinct outputs (100.00%)
+[2024.04.10-15.13.51:320][680]LogShaderCompilers: Display: RAM used: 0.04 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2024.04.10-15.13.51:320][680]LogShaderCompilers: Display: ================================================
+[2024.04.10-15.13.51:930][734]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2024.04.10-15.13.51:930][734]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.13.52:526][787]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2024.04.10-15.13.52:526][787]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.13.52:574][789]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2024.04.10-15.13.52:575][789]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.13.57:366][877]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2024.04.10-15.14.01:375][877]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2024.04.10-15.14.05:373][300]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Marine)
+[2024.04.10-15.14.07:634][530]LogSlate: Took 0.002526 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.04.10-15.14.44:386][770]Cmd: TRANSACTION UNDO
+[2024.04.10-15.14.44:393][770]LogEditorTransaction: Undo Create Actors
+[2024.04.10-15.15.00:572][396]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 46C5C8B072BBE59BCED73AAA890882937517AD5F), compiling. 
+[2024.04.10-15.15.00:703][397]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.04.10-15.15.00:703][397]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2024.04.10-15.15.00:703][397]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2024.04.10-15.15.00:703][397]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.10-15.15.00:725][398]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2024.04.10-15.15.00:838][403]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2024.04.10-15.15.00:838][403]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 35
+[2024.04.10-15.15.00:838][403]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 29
+[2024.04.10-15.15.00:838][403]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2024.04.10-15.15.00:838][403]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2024.04.10-15.15.00:838][403]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2024.04.10-15.15.00:838][403]LogShaderCompilers: Display: Started 36 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.15.01:884][470]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2024.04.10-15.15.01:884][470]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.15.02:006][477]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2024.04.10-15.15.02:006][477]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.15.02:658][514]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2024.04.10-15.15.02:658][514]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2024.04.10-15.15.02:658][514]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.15.03:325][548]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2024.04.10-15.15.03:325][548]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.15.25:079][602]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Marine)
+[2024.04.10-15.15.50:194][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.04.10-15.16.09:978][315]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Marine)
+[2024.04.10-15.17.12:122][ 87]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.04.10-15.41.30:238][606]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprints/BP_mainChara.BP_mainChara
+[2024.04.10-15.41.30:552][606]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2024.04.10-15.41.39:375][368]LogRenderer: Reallocating scene render targets to support 1208x892 Format 10 NumSamples 1 (Frame:327).
+[2024.04.10-15.41.39:635][399]LogSlate: Window 'BP_mainChara' being destroyed
+[2024.04.10-15.41.41:108][552]Cmd: TRANSACTION UNDO
+[2024.04.10-15.41.41:108][552]LogEditorTransaction: Undo Clicking on Actors
+[2024.04.10-15.41.41:503][562]Cmd: TRANSACTION UNDO
+[2024.04.10-15.41.41:503][562]LogEditorTransaction: Undo Clicking on Actors
+[2024.04.10-15.41.41:939][599]Cmd: TRANSACTION UNDO
+[2024.04.10-15.41.41:939][599]LogEditorTransaction: Undo Clicking on Actors
+[2024.04.10-15.41.42:701][686]Cmd: TRANSACTION UNDO
+[2024.04.10-15.41.42:701][686]LogEditorTransaction: Undo Edit Simulation Generates Hit Events
+[2024.04.10-15.41.43:088][724]Cmd: TRANSACTION UNDO
+[2024.04.10-15.41.43:088][724]LogEditorTransaction: Undo Edit Simulation Generates Hit Events
+[2024.04.10-15.41.43:608][785]Cmd: TRANSACTION UNDO
+[2024.04.10-15.41.43:608][785]LogEditorTransaction: Undo Clicking on Actors
+[2024.04.10-15.41.44:189][845]Cmd: TRANSACTION UNDO
+[2024.04.10-15.41.44:189][845]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2024.04.10-15.41.44:562][878]Cmd: TRANSACTION UNDO
+[2024.04.10-15.41.44:562][878]LogEditorTransaction: Undo Create Actors
+[2024.04.10-15.43.21:530][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_mainChara" FILE="../../../../mw/ue/topDownShooterMW/topDownShooter/Content/blueprints/BP_mainChara.uasset" SILENT=true
+[2024.04.10-15.43.21:563][762]LogSavePackage: Moving '../../../../mw/ue/topDownShooterMW/topDownShooter/Saved/BP_mainCharaA7534CB847EF28F4E1B263BC6ED0AFFC.tmp' to '../../../../mw/ue/topDownShooterMW/topDownShooter/Content/blueprints/BP_mainChara.uasset'
+[2024.04.10-15.43.21:583][762]AssetCheck: New page: Asset Save: BP_mainChara
+[2024.04.10-15.43.21:584][762]LogContentValidation: Display: Validating Blueprint /Game/blueprints/BP_mainChara.BP_mainChara
+[2024.04.10-15.43.27:574][384]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.04.10-15.44.43:757][543]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.10-15.44.44:378][564]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.10-15.44.44:750][607]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.10-15.44.45:001][636]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.10-15.44.45:227][662]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.10-15.44.45:529][697]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.10-15.44.45:948][746]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.10-15.44.54:282][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_mainChara" FILE="../../../../mw/ue/topDownShooterMW/topDownShooter/Content/blueprints/BP_mainChara.uasset" SILENT=true
+[2024.04.10-15.44.54:290][684]LogSavePackage: Moving '../../../../mw/ue/topDownShooterMW/topDownShooter/Saved/BP_mainChara73A176FF44702F71762B51AE591B72C6.tmp' to '../../../../mw/ue/topDownShooterMW/topDownShooter/Content/blueprints/BP_mainChara.uasset'
+[2024.04.10-15.44.54:301][684]AssetCheck: New page: Asset Save: BP_mainChara
+[2024.04.10-15.44.54:301][684]LogContentValidation: Display: Validating Blueprint /Game/blueprints/BP_mainChara.BP_mainChara
+[2024.04.10-15.45.00:927][976]LogSlate: Window 'Save Level As' being destroyed
+[2024.04.10-15.45.29:652][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.04.10-15.45.35:963][954]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.10-15.45.35:984][954]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.10-15.45.39:713][394]LogContentBrowser: Attempting asset rename: NewFolder -> scenes
+[2024.04.10-15.45.39:713][394]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.10-15.45.41:464][602]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.04.10-15.45.45:531][684]LogSlate: Window 'Save Level As' being destroyed
+[2024.04.10-15.45.45:569][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/NewMap" FILE="../../../../mw/ue/topDownShooterMW/topDownShooter/Content/scenes/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.10-15.45.45:613][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2024.04.10-15.45.45:626][684]LogSavePackage: Moving '../../../../mw/ue/topDownShooterMW/topDownShooter/Saved/NewMapB3818F394C910A23BD34F299555E9950.tmp' to '../../../../mw/ue/topDownShooterMW/topDownShooter/Content/scenes/NewMap.umap'
+[2024.04.10-15.45.45:632][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/NewMap_BuiltData" FILE="../../../../mw/ue/topDownShooterMW/topDownShooter/Content/scenes/NewMap_BuiltData.uasset" SILENT=true
+[2024.04.10-15.45.45:645][684]LogSavePackage: Moving '../../../../mw/ue/topDownShooterMW/topDownShooter/Saved/NewMap_BuiltDataA5FD44C44104B99FB2DB3983A0D8F9C5.tmp' to '../../../../mw/ue/topDownShooterMW/topDownShooter/Content/scenes/NewMap_BuiltData.uasset'
+[2024.04.10-15.45.45:652][684]LogFileHelpers: Saving map 'NewMap' took 0.114
+[2024.04.10-15.45.45:659][684]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.10-15.45.45:659][684]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/scenes/NewMap_BuiltData.NewMap_BuiltData
+[2024.04.10-15.45.45:659][684]LogContentValidation: Display: Validating World /Game/scenes/NewMap.NewMap
+[2024.04.10-15.45.54:321][483]LogContentBrowser: Attempting asset rename: NewMap -> Map01
+[2024.04.10-15.45.54:382][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Map01_BuiltData" FILE="../../../../mw/ue/topDownShooterMW/topDownShooter/Content/scenes/Map01_BuiltData.uasset" SILENT=true
+[2024.04.10-15.45.54:394][483]LogSavePackage: Moving '../../../../mw/ue/topDownShooterMW/topDownShooter/Saved/Map01_BuiltData71BC2CC0452C789FAF4410A7BA1881DF.tmp' to '../../../../mw/ue/topDownShooterMW/topDownShooter/Content/scenes/Map01_BuiltData.uasset'
+[2024.04.10-15.45.54:395][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Map01" FILE="../../../../mw/ue/topDownShooterMW/topDownShooter/Content/scenes/Map01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.10-15.45.54:444][483]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2024.04.10-15.45.54:453][483]LogSavePackage: Moving '../../../../mw/ue/topDownShooterMW/topDownShooter/Saved/Map01CBB0209C494422B1CDB91BBED4D0BAAA.tmp' to '../../../../mw/ue/topDownShooterMW/topDownShooter/Content/scenes/Map01.umap'
+[2024.04.10-15.45.54:455][483]LogFileHelpers: Saving map 'Map01' took 0.061
+[2024.04.10-15.45.54:561][483]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.04.10-15.45.54:582][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.10-15.45.54:610][483]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.04.10-15.45.54:631][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.10-15.45.54:675][483]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.10-15.45.54:675][483]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/scenes/Map01_BuiltData.Map01_BuiltData
+[2024.04.10-15.45.54:675][483]LogContentValidation: Display: Validating World /Game/scenes/Map01.Map01
+[2024.04.10-15.46.29:466][967]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.04.10-15.46.30:382][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2024.04.10-15.46.30:391][ 63]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.10-15.46.30:392][ 63]LogPlayLevel: [PlayLevel] Compiling BP_mainChara before play...
+[2024.04.10-15.46.30:451][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2024.04.10-15.46.30:452][ 63]LogPlayLevel: PlayLevel: Blueprint regeneration took 61 ms (1 blueprints)
+[2024.04.10-15.46.30:453][ 63]PIE: New page: PIE session: Map01 (10 kwi 2024, 19:46:30)
+[2024.04.10-15.46.30:461][ 63]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.04.10-15.46.30:463][ 63]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.04.10-15.46.30:465][ 63]LogPlayLevel: Creating play world package: /Game/scenes/UEDPIE_0_Map01
+[2024.04.10-15.46.30:469][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003973s)
+[2024.04.10-15.46.30:474][ 63]LogAIModule: Creating AISystem for world Map01
+[2024.04.10-15.46.30:474][ 63]LogPlayLevel: PIE: World Init took: (0.004993s)
+[2024.04.10-15.46.30:475][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/scenes/Map01.Map01 to /Game/scenes/UEDPIE_0_Map01.Map01 (0.009155s)
+[2024.04.10-15.46.30:498][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.04.10-15.46.30:500][ 63]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.10-15.46.30:500][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-15.46.30:500][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-15.46.30:500][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-15.46.30:500][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-15.46.30:500][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.10-15.46.30:500][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.10-15.46.30:500][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.10-15.46.30:500][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-15.46.30:500][ 63]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-15.46.30:500][ 63]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-15.46.30:500][ 63]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-15.46.30:500][ 63]LogAudioMixer: Display: Initializing audio mixer.
+[2024.04.10-15.46.30:507][ 63]LogAudioMixer: Display: 0: FrontLeft
+[2024.04.10-15.46.30:507][ 63]LogAudioMixer: Display: 1: FrontRight
+[2024.04.10-15.46.30:515][ 63]LogAudioMixer: Display: Using Audio Device Głośniki (Steam Streaming Speakers)
+[2024.04.10-15.46.30:515][ 63]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-15.46.30:515][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-15.46.30:515][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-15.46.30:515][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.04.10-15.46.30:515][ 63]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.04.10-15.46.30:515][ 63]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.04.10-15.46.30:516][ 63]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.04.10-15.46.30:516][ 63]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.04.10-15.46.30:516][ 63]LogInit: FAudioDevice initialized.
+[2024.04.10-15.46.30:516][ 63]LogAudio: Display: Audio Device (ID: 2) registered with world 'Map01'.
+[2024.04.10-15.46.30:528][ 63]LogLoad: Game class is 'GameModeBase'
+[2024.04.10-15.46.30:538][ 63]LogWorld: Bringing World /Game/scenes/UEDPIE_0_Map01.Map01 up for play (max tick rate 0) at 2024.04.10-17.46.30
+[2024.04.10-15.46.30:541][ 63]LogWorld: Bringing up level for play took: 0.003462
+[2024.04.10-15.46.30:542][ 63]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2024.04.10-15.46.30:564][ 63]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2024.04.10-15.46.30:568][ 63]PIE: Server logged in
+[2024.04.10-15.46.30:571][ 63]PIE: Play in editor total start time 0,185 seconds.
+[2024.04.10-15.46.32:313][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-15.46.32:313][222]LogWorld: BeginTearingDown for /Game/scenes/UEDPIE_0_Map01
+[2024.04.10-15.46.32:314][222]LogWorld: UWorld::CleanupWorld for Map01, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-15.46.32:315][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-15.46.32:327][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-15.46.32:340][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-15.46.32:366][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-15.46.32:378][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.10-15.46.32:381][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.10-15.46.32:434][222]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2024.04.10-15.46.32:458][223]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.04.10-15.46.44:914][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_mainChara" FILE="../../../../mw/ue/topDownShooterMW/topDownShooter/Content/blueprints/BP_mainChara.uasset" SILENT=true
+[2024.04.10-15.46.44:924][568]LogSavePackage: Moving '../../../../mw/ue/topDownShooterMW/topDownShooter/Saved/BP_mainChara8A7E068F472C42E1793D7D8523D8F334.tmp' to '../../../../mw/ue/topDownShooterMW/topDownShooter/Content/blueprints/BP_mainChara.uasset'
+[2024.04.10-15.46.44:936][568]AssetCheck: New page: Asset Save: BP_mainChara
+[2024.04.10-15.46.44:936][568]LogContentValidation: Display: Validating Blueprint /Game/blueprints/BP_mainChara.BP_mainChara
+[2024.04.10-15.46.47:599][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.04.10-15.46.48:065][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Map01" FILE="../../../../mw/ue/topDownShooterMW/topDownShooter/Content/scenes/Map01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.10-15.46.48:129][916]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2024.04.10-15.46.48:137][916]LogSavePackage: Moving '../../../../mw/ue/topDownShooterMW/topDownShooter/Saved/Map019521E35644D597F47E6C64AB35D74F6C.tmp' to '../../../../mw/ue/topDownShooterMW/topDownShooter/Content/scenes/Map01.umap'
+[2024.04.10-15.46.48:141][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Map01_BuiltData" FILE="../../../../mw/ue/topDownShooterMW/topDownShooter/Content/scenes/Map01_BuiltData.uasset" SILENT=true
+[2024.04.10-15.46.48:152][916]LogSavePackage: Moving '../../../../mw/ue/topDownShooterMW/topDownShooter/Saved/Map01_BuiltDataD0BA9CEA40FC6CFC2F9FF9B65C87E1C8.tmp' to '../../../../mw/ue/topDownShooterMW/topDownShooter/Content/scenes/Map01_BuiltData.uasset'
+[2024.04.10-15.46.48:167][916]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.10-15.46.48:167][916]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/scenes/Map01_BuiltData.Map01_BuiltData
+[2024.04.10-15.46.48:167][916]LogContentValidation: Display: Validating World /Game/scenes/Map01.Map01
+[2024.04.10-15.46.49:510][ 59]LogTemp: Repeating last play command: Selected Viewport
+[2024.04.10-15.46.49:514][ 59]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.10-15.46.49:515][ 59]LogPlayLevel: [PlayLevel] Compiling BP_mainChara before play...
+[2024.04.10-15.46.49:569][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2024.04.10-15.46.49:570][ 59]LogPlayLevel: PlayLevel: Blueprint regeneration took 56 ms (1 blueprints)
+[2024.04.10-15.46.49:570][ 59]PIE: New page: PIE session: Map01 (10 kwi 2024, 19:46:49)
+[2024.04.10-15.46.49:570][ 59]LogPlayLevel: Creating play world package: /Game/scenes/UEDPIE_0_Map01
+[2024.04.10-15.46.49:573][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002347s)
+[2024.04.10-15.46.49:574][ 59]LogAIModule: Creating AISystem for world Map01
+[2024.04.10-15.46.49:574][ 59]LogPlayLevel: PIE: World Init took: (0.001426s)
+[2024.04.10-15.46.49:574][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/scenes/Map01.Map01 to /Game/scenes/UEDPIE_0_Map01.Map01 (0.003904s)
+[2024.04.10-15.46.49:600][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.04.10-15.46.49:600][ 59]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.10-15.46.49:600][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-15.46.49:600][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-15.46.49:600][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-15.46.49:600][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-15.46.49:600][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.10-15.46.49:600][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.10-15.46.49:600][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.10-15.46.49:600][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-15.46.49:601][ 59]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-15.46.49:601][ 59]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-15.46.49:601][ 59]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-15.46.49:601][ 59]LogAudioMixer: Display: Initializing audio mixer.
+[2024.04.10-15.46.49:606][ 59]LogAudioMixer: Display: 0: FrontLeft
+[2024.04.10-15.46.49:606][ 59]LogAudioMixer: Display: 1: FrontRight
+[2024.04.10-15.46.49:611][ 59]LogAudioMixer: Display: Using Audio Device Głośniki (Steam Streaming Speakers)
+[2024.04.10-15.46.49:612][ 59]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-15.46.49:612][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-15.46.49:612][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-15.46.49:612][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.04.10-15.46.49:612][ 59]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.04.10-15.46.49:612][ 59]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.04.10-15.46.49:614][ 59]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.04.10-15.46.49:614][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.04.10-15.46.49:614][ 59]LogInit: FAudioDevice initialized.
+[2024.04.10-15.46.49:614][ 59]LogAudio: Display: Audio Device (ID: 3) registered with world 'Map01'.
+[2024.04.10-15.46.49:627][ 59]LogLoad: Game class is 'GameModeBase'
+[2024.04.10-15.46.49:628][ 59]LogWorld: Bringing World /Game/scenes/UEDPIE_0_Map01.Map01 up for play (max tick rate 0) at 2024.04.10-17.46.49
+[2024.04.10-15.46.49:628][ 59]LogWorld: Bringing up level for play took: 0.001034
+[2024.04.10-15.46.49:628][ 59]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2024.04.10-15.46.49:632][ 59]PIE: Server logged in
+[2024.04.10-15.46.49:633][ 59]PIE: Play in editor total start time 0,12 seconds.
+[2024.04.10-15.46.56:589][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-15.46.56:589][878]LogWorld: BeginTearingDown for /Game/scenes/UEDPIE_0_Map01
+[2024.04.10-15.46.56:589][878]LogWorld: UWorld::CleanupWorld for Map01, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-15.46.56:590][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-15.46.56:596][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-15.46.56:617][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-15.46.56:640][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-15.46.56:640][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.10-15.46.56:641][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.10-15.46.56:648][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2024.04.10-15.46.56:672][879]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.04.10-15.47.21:936][488]LogEditorViewport: Clicking on Actor (LMB): BP_mainChara_C (BP_mainChara)
+[2024.04.10-15.47.25:134][842]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.04.10-15.47.27:791][155]LogEditorViewport: Clicking on Actor (LMB): BP_mainChara_C (BP_mainChara)
+[2024.04.10-15.47.46:900][993]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.04.10-15.49.59:054][429]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.10-15.49.59:057][429]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.10-15.50.05:606][984]LogSlate: Took 0.001084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.10-15.54.39:258][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_mainChara" FILE="../../../../mw/ue/topDownShooterMW/topDownShooter/Content/blueprints/BP_mainChara.uasset" SILENT=true
+[2024.04.10-15.54.39:270][404]LogSavePackage: Moving '../../../../mw/ue/topDownShooterMW/topDownShooter/Saved/BP_mainChara28BF065343DB4275AEB9E0B0B7372B28.tmp' to '../../../../mw/ue/topDownShooterMW/topDownShooter/Content/blueprints/BP_mainChara.uasset'
+[2024.04.10-15.54.39:286][404]AssetCheck: New page: Asset Save: BP_mainChara
+[2024.04.10-15.54.39:286][404]LogContentValidation: Display: Validating Blueprint /Game/blueprints/BP_mainChara.BP_mainChara
+[2024.04.10-15.54.41:567][597]LogTemp: Repeating last play command: Selected Viewport
+[2024.04.10-15.54.41:575][597]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.10-15.54.41:575][597]LogPlayLevel: [PlayLevel] Compiling BP_mainChara before play...
+[2024.04.10-15.54.41:768][597]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2024.04.10-15.54.41:771][597]LogPlayLevel: PlayLevel: Blueprint regeneration took 195 ms (1 blueprints)
+[2024.04.10-15.54.41:771][597]PIE: New page: PIE session: Map01 (10 kwi 2024, 19:54:41)
+[2024.04.10-15.54.41:771][597]LogPlayLevel: Creating play world package: /Game/scenes/UEDPIE_0_Map01
+[2024.04.10-15.54.41:774][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002564s)
+[2024.04.10-15.54.41:775][597]LogAIModule: Creating AISystem for world Map01
+[2024.04.10-15.54.41:775][597]LogPlayLevel: PIE: World Init took: (0.001294s)
+[2024.04.10-15.54.41:775][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/scenes/Map01.Map01 to /Game/scenes/UEDPIE_0_Map01.Map01 (0.004015s)
+[2024.04.10-15.54.41:833][597]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2024.04.10-15.54.41:833][597]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.04.10-15.54.41:834][597]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-15.54.41:834][597]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-15.54.41:834][597]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-15.54.41:834][597]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-15.54.41:834][597]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.10-15.54.41:834][597]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.10-15.54.41:834][597]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.10-15.54.41:834][597]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-15.54.41:834][597]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-15.54.41:834][597]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-15.54.41:834][597]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-15.54.41:834][597]LogAudioMixer: Display: Initializing audio mixer.
+[2024.04.10-15.54.41:840][597]LogAudioMixer: Display: 0: FrontLeft
+[2024.04.10-15.54.41:840][597]LogAudioMixer: Display: 1: FrontRight
+[2024.04.10-15.54.41:847][597]LogAudioMixer: Display: Using Audio Device Głośniki (Steam Streaming Speakers)
+[2024.04.10-15.54.41:847][597]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-15.54.41:847][597]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-15.54.41:847][597]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-15.54.41:848][597]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.04.10-15.54.41:848][597]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.04.10-15.54.41:848][597]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.04.10-15.54.41:849][597]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.04.10-15.54.41:849][597]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.04.10-15.54.41:849][597]LogInit: FAudioDevice initialized.
+[2024.04.10-15.54.41:849][597]LogAudio: Display: Audio Device (ID: 4) registered with world 'Map01'.
+[2024.04.10-15.54.41:862][597]LogLoad: Game class is 'GameModeBase'
+[2024.04.10-15.54.41:863][597]LogWorld: Bringing World /Game/scenes/UEDPIE_0_Map01.Map01 up for play (max tick rate 0) at 2024.04.10-17.54.41
+[2024.04.10-15.54.41:864][597]LogWorld: Bringing up level for play took: 0.001032
+[2024.04.10-15.54.41:864][597]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2024.04.10-15.54.41:867][597]PIE: Server logged in
+[2024.04.10-15.54.41:868][597]PIE: Play in editor total start time 0,297 seconds.
+[2024.04.10-15.55.08:009][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-15.55.08:009][726]LogWorld: BeginTearingDown for /Game/scenes/UEDPIE_0_Map01
+[2024.04.10-15.55.08:009][726]LogWorld: UWorld::CleanupWorld for Map01, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-15.55.08:010][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-15.55.08:020][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-15.55.08:059][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-15.55.08:082][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-15.55.08:082][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.10-15.55.08:084][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.10-15.55.08:090][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2024.04.10-15.55.08:133][727]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.04.10-15.55.14:868][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_mainChara" FILE="../../../../mw/ue/topDownShooterMW/topDownShooter/Content/blueprints/BP_mainChara.uasset" SILENT=true
+[2024.04.10-15.55.14:879][441]LogSavePackage: Moving '../../../../mw/ue/topDownShooterMW/topDownShooter/Saved/BP_mainChara3668DAF14FE20869D843C18BC69BCB7C.tmp' to '../../../../mw/ue/topDownShooterMW/topDownShooter/Content/blueprints/BP_mainChara.uasset'
+[2024.04.10-15.55.14:893][441]AssetCheck: New page: Asset Save: BP_mainChara
+[2024.04.10-15.55.14:893][441]LogContentValidation: Display: Validating Blueprint /Game/blueprints/BP_mainChara.BP_mainChara
+[2024.04.10-15.55.16:888][599]LogTemp: Repeating last play command: Selected Viewport
+[2024.04.10-15.55.16:893][599]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.10-15.55.16:894][599]LogPlayLevel: [PlayLevel] Compiling BP_mainChara before play...
+[2024.04.10-15.55.17:028][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2024.04.10-15.55.17:032][599]LogPlayLevel: PlayLevel: Blueprint regeneration took 139 ms (1 blueprints)
+[2024.04.10-15.55.17:032][599]PIE: New page: PIE session: Map01 (10 kwi 2024, 19:55:17)
+[2024.04.10-15.55.17:032][599]LogPlayLevel: Creating play world package: /Game/scenes/UEDPIE_0_Map01
+[2024.04.10-15.55.17:035][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002390s)
+[2024.04.10-15.55.17:035][599]LogAIModule: Creating AISystem for world Map01
+[2024.04.10-15.55.17:036][599]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2024.04.10-15.55.17:036][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/scenes/Map01.Map01 to /Game/scenes/UEDPIE_0_Map01.Map01 (0.003624s)
+[2024.04.10-15.55.17:063][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.04.10-15.55.17:063][599]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.04.10-15.55.17:063][599]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-15.55.17:063][599]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-15.55.17:063][599]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-15.55.17:063][599]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-15.55.17:063][599]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.10-15.55.17:063][599]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.10-15.55.17:063][599]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.10-15.55.17:063][599]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-15.55.17:064][599]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-15.55.17:064][599]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-15.55.17:064][599]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-15.55.17:064][599]LogAudioMixer: Display: Initializing audio mixer.
+[2024.04.10-15.55.17:069][599]LogAudioMixer: Display: 0: FrontLeft
+[2024.04.10-15.55.17:069][599]LogAudioMixer: Display: 1: FrontRight
+[2024.04.10-15.55.17:075][599]LogAudioMixer: Display: Using Audio Device Głośniki (Steam Streaming Speakers)
+[2024.04.10-15.55.17:076][599]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-15.55.17:076][599]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-15.55.17:076][599]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-15.55.17:076][599]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.04.10-15.55.17:076][599]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.04.10-15.55.17:076][599]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.04.10-15.55.17:078][599]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.04.10-15.55.17:078][599]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.04.10-15.55.17:078][599]LogInit: FAudioDevice initialized.
+[2024.04.10-15.55.17:078][599]LogAudio: Display: Audio Device (ID: 5) registered with world 'Map01'.
+[2024.04.10-15.55.17:090][599]LogLoad: Game class is 'GameModeBase'
+[2024.04.10-15.55.17:091][599]LogWorld: Bringing World /Game/scenes/UEDPIE_0_Map01.Map01 up for play (max tick rate 0) at 2024.04.10-17.55.17
+[2024.04.10-15.55.17:091][599]LogWorld: Bringing up level for play took: 0.000980
+[2024.04.10-15.55.17:091][599]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2024.04.10-15.55.17:094][599]PIE: Server logged in
+[2024.04.10-15.55.17:095][599]PIE: Play in editor total start time 0,203 seconds.
+[2024.04.10-15.55.19:320][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-15.55.19:320][852]LogWorld: BeginTearingDown for /Game/scenes/UEDPIE_0_Map01
+[2024.04.10-15.55.19:320][852]LogWorld: UWorld::CleanupWorld for Map01, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-15.55.19:321][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-15.55.19:329][852]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-15.55.19:366][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-15.55.19:389][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-15.55.19:389][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.10-15.55.19:391][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.10-15.55.19:397][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2024.04.10-15.55.19:438][853]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.04.10-15.55.20:632][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Map01" FILE="../../../../mw/ue/topDownShooterMW/topDownShooter/Content/scenes/Map01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.10-15.55.20:660][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2024.04.10-15.55.20:668][986]LogSavePackage: Moving '../../../../mw/ue/topDownShooterMW/topDownShooter/Saved/Map017FFF880F41A9008878169AA3AFFCB4CB.tmp' to '../../../../mw/ue/topDownShooterMW/topDownShooter/Content/scenes/Map01.umap'
+[2024.04.10-15.55.20:674][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scenes/Map01_BuiltData" FILE="../../../../mw/ue/topDownShooterMW/topDownShooter/Content/scenes/Map01_BuiltData.uasset" SILENT=true
+[2024.04.10-15.55.20:684][986]LogSavePackage: Moving '../../../../mw/ue/topDownShooterMW/topDownShooter/Saved/Map01_BuiltData75BC54384317E689D24780B489943608.tmp' to '../../../../mw/ue/topDownShooterMW/topDownShooter/Content/scenes/Map01_BuiltData.uasset'
+[2024.04.10-15.55.20:698][986]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.10-15.55.20:698][986]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/scenes/Map01_BuiltData.Map01_BuiltData
+[2024.04.10-15.55.20:698][986]LogContentValidation: Display: Validating World /Game/scenes/Map01.Map01
